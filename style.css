@@ -1,0 +1,9 @@
+header { */
+     text-align: center; */
+} 
+header img {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
