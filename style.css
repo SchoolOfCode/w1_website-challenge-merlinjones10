@@ -1,6 +1,7 @@
-* {
-    box-sizing: border-box;
+html {
+    background-color: rgb(128, 128, 128, 1.0);
 }
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 100px;
@@ -92,3 +93,20 @@ ol, ul {
  li {
      line-height: 1.5;
  }
+
+ footer a {
+     color: #FFD42E;
+     /* text-decoration: none; */
+ }
+
+ footer a:hover {
+     color: red;
+ }
+
+  nav {
+    margin-right: auto;
+    position: relative;
+    left: 5px;
+    top: 2px;
+ } 
+
