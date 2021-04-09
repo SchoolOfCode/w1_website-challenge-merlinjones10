@@ -51,16 +51,21 @@ h1 {
 
 .row {
     display: flex;
+    align-items: flex-start;
 }
 
 .column {
     flex: 50%;
+    
 }
 
 .square {
     height: 150px;
     width: 150px;
-    border: 5px solid #2F4858
+    border: 5px solid #2F4858;
+    
+   
+
 }
 
 #about-img {
