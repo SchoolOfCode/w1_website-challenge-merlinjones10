@@ -40,9 +40,9 @@ h1 {
     font-weight: bold;
 }
 
-main {
+/* main { */
     /*  everything below header */
-}
+/* } */
 
 .row {
     display: flex;
@@ -60,7 +60,7 @@ main {
 #about-img {
     max-height: auto;
     max-width: 100%;
-    position;
+    /* position: ; */
     /* width: 40%; */
     /* height: auto; */  
 }
